@@ -18,7 +18,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'q_aggregates': {
-            'stdev = q_stdev.StDev'
+            'stdev = q_stdev:StDev'
         }
     }
 )
