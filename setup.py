@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='q-stdev',
-    version='0.1',
+    version='0.1.1',
     url='https://github.com/coddingtonbear/q-stdev',
     description=(
         'Adds a new `stdev` aggregate to Q (textasdata).'
